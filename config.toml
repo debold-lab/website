@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "https://focused-archimedes-c51634.netlify.app"
 title = "Debold Lab"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
