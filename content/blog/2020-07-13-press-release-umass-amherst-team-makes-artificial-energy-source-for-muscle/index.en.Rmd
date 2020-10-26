@@ -1,0 +1,14 @@
+---
+title: 'Press Release: UMass Amherst Team Makes Artificial Energy Source for Muscle'
+author: The Debold Lab
+date: '2020-07-13'
+slug: []
+banner: 'img/banners/ivm.jpg'
+categories:
+  - biophysics
+tags:
+  - myosin
+  - laser trap
+---
+
+Mike Woodward published a piece of his dissertation in the Biophysical Journal. You can check out the [press release from UMass Amherst](https://www.umass.edu/newsoffice/article/umass-amherst-team-makes-artificial-energy) or a PDF copy of the [paper on the journal website](https://www.cell.com/biophysj/pdf/S0006-3495(20)30500-2.pdf).  
