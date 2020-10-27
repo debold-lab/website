@@ -1,0 +1,16 @@
+---
+title: UMass Amherst Team Makes Artificial Energy Source for Muscle
+author: The Debold Lab
+date: '2020-07-13'
+slug: []
+categories:
+  - biophysics
+tags:
+  - myosin
+  - laser trap
+  - energy transduction
+---
+
+<iframe>
+  https://www.umass.edu/newsoffice/article/umass-amherst-team-makes-artificial-energy
+</iframe>

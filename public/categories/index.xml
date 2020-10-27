@@ -2,44 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Debold Lab</title>
-    <link>https://example.org/categories/</link>
+    <link>https://focused-archimedes-c51634.netlify.app/categories/</link>
     <description>Recent content in Categories on Debold Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://focused-archimedes-c51634.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>programming</title>
-      <link>https://example.org/categories/programming/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>biophysics</title>
+      <link>https://focused-archimedes-c51634.netlify.app/categories/biophysics/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pseudo</title>
-      <link>https://example.org/categories/pseudo/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>https://example.org/categories/pseudo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>starting</title>
-      <link>https://example.org/categories/starting/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://example.org/categories/starting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lorem</title>
-      <link>https://example.org/categories/lorem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/categories/lorem/</guid>
+      <guid>https://focused-archimedes-c51634.netlify.app/categories/biophysics/</guid>
       <description></description>
     </item>
     
